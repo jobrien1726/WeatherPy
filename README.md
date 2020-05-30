@@ -1,8 +1,6 @@
-# python-api-challenge
+# WeatherPy
 
-## WeatherPy
-
-### Project Overview
+## Project Overview
 
 This project uses Python and the OpenWeatherMap API to analyze trends in weather patterns using the data of 500+ cities around the globe. The code randomly selects over 500 cities at varying distances from the equator and uses matplotlib to create scatter plots that showcase the following relationships:
 
@@ -18,7 +16,7 @@ Some Conclusions from this analysis:
 
 3. The scatter plot with regard to Wind Speed indicates that the wind gets stronger as we move further from the equator. This trend does align with what I would've anticipated.
 
-### Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
